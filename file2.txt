@@ -1,1 +1,2 @@
 First line in GiRepo
+second line in GiRepom 
